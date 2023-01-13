@@ -1,0 +1,19 @@
+ssh u1500865@37.140.192.36
+pass: gf5O5gR3lJDbrd8M
+
+ wget -qO- eth0.me - Узнать ip
+
+37.140.192.36 - ftp
+
+source venv/bin/activate - виртуальное окружение
+
+
+cd vkBot/
+source botEnv/bin/activate
+python vkPosting.py
+
+cd vkBot/;source botEnv/bin/activate;python vkPosting.py
+
+
+ ssh u1497122@37.140.192.18
+ KL4e0YfoFDuI82wK
